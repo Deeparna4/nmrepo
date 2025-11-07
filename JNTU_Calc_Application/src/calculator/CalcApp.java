@@ -9,7 +9,7 @@ public class CalcApp {
         int a = sc.nextInt();
         System.out.println("Enter second number: ");
         int b = sc.nextInt();
-        System.out.println("Sum = " + (a + b));
+        System.out.println("Total Sum = " + (a + b));
         sc.close();
     }
 }
