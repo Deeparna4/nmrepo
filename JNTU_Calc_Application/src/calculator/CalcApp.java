@@ -7,7 +7,7 @@ public class CalcApp {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number: ");
         int a = sc.nextInt();
-        System.out.println("Enter second number: ");
+        System.out.println("Enter second number : ");
         int b = sc.nextInt();
         System.out.println("Total Sum is calculated as  " + (a + b));
         sc.close();
